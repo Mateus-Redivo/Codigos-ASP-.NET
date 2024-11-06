@@ -145,3 +145,4 @@ C:\Users\Mateus\Desktop\Codigos ASP .NET\api\bin\Debug\net8.0\Microsoft.AspNetCo
 C:\Users\Mateus\Desktop\Codigos ASP .NET\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Mateus\Desktop\Codigos ASP .NET\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Mateus\Desktop\Codigos ASP .NET\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Mateus\Desktop\Codigos ASP .NET\api\obj\Debug\net8.0\api.sourcelink.json
